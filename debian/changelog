@@ -1,3 +1,10 @@
+adw-gtk3 (4.9-100pika1) pikauwu; urgency=medium
+
+  * Upgrade to pikauwu
+
+ -- Ward Nakchbandi <hotrod.master@hotmail.com>  Fri, 09 Oct 2022 21:38:00 +0300
+
+
 adw-gtk3 (4.6-99pika2.lunar) lunar; urgency=medium
 
   * Upgrade to lunar

@@ -1,5 +1,5 @@
 # Clone Upstream
-git clone https://github.com/lassekongo83/adw-gtk3 -b v4.6
+git clone https://github.com/lassekongo83/adw-gtk3 -b v4.9
 cp -rvf ./debian ./adw-gtk3/
 cd ./adw-gtk3
 
